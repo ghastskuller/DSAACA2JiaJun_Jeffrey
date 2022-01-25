@@ -22,4 +22,4 @@ while True:
             print("Bye, thanks for using ST1507 DSAA CA2 Assignment")
             quit()
         else:
-            print("This number {} doesn't exist. Please make sure u type a number between 1-4. Try again!".format(userChoice))
+            print("This number {} doesn't exist. Please make sure u type a number between 1-3. Try again!".format(userChoice))
